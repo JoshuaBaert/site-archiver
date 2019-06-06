@@ -1,0 +1,14 @@
+{
+  "name": "mdc-2018",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "website-scraper": "^4.0.0"
+  }
+}
